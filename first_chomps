@@ -43,7 +43,7 @@ Bonus: Add score tracking and save high scores locally
 
 
 
-🔄 Full-Stack Projects (Frontend + Backend + DB) (Could be the hardware/tech site?)
+[rb] 🔄 Full-Stack Projects (Frontend + Backend + DB) (Could be the hardware/tech site?)
 7. To-Do App with User Authentication
 
 What: Users can register/login and manage personal to-do lists.
@@ -64,14 +64,6 @@ Skills: Forms, date pickers, chart libraries (Chart.js or D3)
 
 Bonus: Filter data by time range
 
-
-11. Authentication & Authorization System (prob needed eventually)
-
-What: Build a full login/register/logout flow with access control.
-
-Skills: JWT tokens, session storage, route protection
-
-Bonus: Add email verification or OAuth (Google login)
 
 
 [rb] 12. Real-Time Chat App (Maybe for sales via chatbots)
