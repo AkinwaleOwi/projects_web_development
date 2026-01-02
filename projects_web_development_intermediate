@@ -6,6 +6,8 @@ Here’s a list of Intermediate Web Development Project Ideas, organized by fron
 🎨 Frontend-Focused Projects (HTML/CSS/JavaScript + APIs)
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
 1. Movie Search App (with OMDb or TMDB API)
 
 What: Search for movie titles, show posters, ratings, and plot.
@@ -54,7 +56,9 @@ Skills: Array manipulation, localStorage, component-like structure
 
 Bonus: Add a responsive grid and search functionality
 
-6. Quiz App with Categories & Scoring
+
+
+6. Quiz App with Categories & Scoring (Maybe remake cat trivia here?prob will need sports, tech and other nerd ones later?)
 
 What: Load quiz questions from an API like Open Trivia DB.
 
@@ -62,7 +66,9 @@ Skills: State management, conditionals, timers
 
 Bonus: Add score tracking and save high scores locally
 
-🔄 Full-Stack Projects (Frontend + Backend + DB)
+
+
+🔄 Full-Stack Projects (Frontend + Backend + DB) (Could be the hardware/tech site?)
 7. To-Do App with User Authentication
 
 What: Users can register/login and manage personal to-do lists.
@@ -73,6 +79,9 @@ Backend: Node.js/Express or Flask
 
 DB: MongoDB or SQLite
 
+
+
+
 8. Blog Platform with Markdown Support
 
 What: Users can write, edit, delete posts using Markdown.
@@ -80,6 +89,8 @@ What: Users can write, edit, delete posts using Markdown.
 Skills: CRUD, routing, rich text rendering
 
 Bonus: Add user roles (admin, author)
+
+
 
 9. Note-Taking App with Tag Support
 
@@ -91,13 +102,17 @@ Backend: REST API or Firebase
 
 Bonus: Add real-time sync (e.g. with Firestore)
 
-10. Expense Tracker with Charts
+
+
+10. Expense Tracker with Charts (def need this for poly paul, separate by family member type, etc )
 
 What: Log income and expenses, show visual breakdown.
 
 Skills: Forms, date pickers, chart libraries (Chart.js or D3)
 
 Bonus: Filter data by time range
+
+
 
 11. Authentication & Authorization System
 
@@ -106,6 +121,8 @@ What: Build a full login/register/logout flow with access control.
 Skills: JWT tokens, session storage, route protection
 
 Bonus: Add email verification or OAuth (Google login)
+
+
 
 12. Real-Time Chat App
 
