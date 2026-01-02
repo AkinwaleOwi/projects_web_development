@@ -7,8 +7,8 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$
 beg
 
 
-📝 1. Personal Portfolio Website (needed) [rb]
-
+[rb]
+📝 1. Personal Portfolio Website (needed) 
 What: Create a homepage that showcases your bio, skills, resume, and project links.
 
 Skills: HTML, CSS
@@ -17,7 +17,7 @@ Bonus: Add animations with CSS or host it on GitHub Pages
 
 
 
-🗓️ 5. Basic Event Calendar (greene a for games and prob cafeteria food) [rb]
+[rb] 🗓️ 5. Basic Event Calendar (greene a for games and prob cafeteria food) 
 
 What: A simple calendar that lets you add/view daily notes or tasks.
 
@@ -33,7 +33,7 @@ Skills: Dates, forms, JavaScript logic
 Med:
 
 
-6. Quiz App with Categories & Scoring (Maybe remake cat trivia here?prob will need sports, tech and other nerd ones later?)
+[rb] 6. Quiz App with Categories & Scoring (Maybe remake cat trivia here?prob will need sports, tech and other nerd ones later?)
 
 What: Load quiz questions from an API like Open Trivia DB.
 
@@ -56,7 +56,7 @@ DB: MongoDB or SQLite
 
 
 
-10. Expense Tracker with Charts (def need this for poly paul, separate by family member type, etc )
+[rb] 10. Expense Tracker with Charts (def need this for poly paul, separate by family member type, etc )
 
 What: Log income and expenses, show visual breakdown.
 
