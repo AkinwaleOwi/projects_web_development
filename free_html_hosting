@@ -1,0 +1,47 @@
+codes
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+Here are **websites and services that let you host your HTML website for free** — great for portfolios, personal pages, demos, or simple static sites (HTML/CSS/JS):
+
+### 🆓 Simple Upload-and-Go Hosts
+
+These allow you to upload your files (often drag-and-drop or ZIP) and get a live URL quickly — perfect if you don’t want to deal with Git or version control:
+
+* **LinkyHost** – Upload your HTML/CSS/JS (or ZIP) and go live with a free subdomain and SSL. ([LinkyHost][1])
+* **HostMyHTML** – Free static HTML hosting with easy drag-and-drop upload. ([HostMyHTML][2])
+* **Static.run** – Upload your static site and get instant hosting, custom domains supported. ([Static.run][3])
+* **gohosted.app** – Free static hosting with SSL, analytics, and live links. ([GoHosted][4])
+* **Pagelet.host** – Very simple HTML upload with an instant live URL. ([pagelet.host][5])
+* **Static.app** – Drag-and-drop HTML hosting with built-in file manager. ([Static.app][6])
+* **Bopbee** – Instant static site deployment by dragging and dropping files. ([bopbee][7])
+* **FreeHostHtml** – Paste your HTML code and get a live link instantly. ([FreeHostHtml][8])
+
+### 🌐 Classic & Developer-Friendly Static Hosts
+
+These are popular with developers and offer more control (some may require Git or CLI deployment):
+
+* **Neocities** – Free hosting with storage and bandwidth for static pages (revival of GeoCities style). ([Wikipedia][9])
+* **GitHub Pages** – Host static sites from a GitHub repo (free HTTPS). (Suggested by many devs) ([Reddit][10])
+* **Cloudflare Pages** – Free static hosting with global CDN (good for faster load times). (Common recommendation) ([Reddit][11])
+* **Netlify** – Free tier for static sites with drag-and-drop deploy or Git integration. (Often suggested) ([Reddit][10])
+* **Vercel** – Free static site hosting with neat deployment from Git. (Also recommended by webdev communities) ([Reddit][12])
+
+### 📌 Notes & Tips
+
+* These hosts are best for **static sites** — pure HTML, CSS, JavaScript, images, etc., no server-side code like PHP. ([Reddit][10])
+* Some (e.g., GitHub Pages, Cloudflare Pages) *deploy via Git*, not just manual upload. ([Reddit][11])
+* Most give you a **free subdomain**, but you can usually connect a **custom domain** if you own one. ([LinkyHost][1])
+
+If you want, I can help you **choose the best one based on your needs** (e.g., easiest upload, custom domain, no Git required).
+
+[1]: https://www.linkyhost.com/use-cases/free-website-hosting?utm_source=chatgpt.com "Free Website Hosting | Host HTML Sites - LinkyHost"
+[2]: https://hostmyhtml.space/?utm_source=chatgpt.com "HostMyHTML - Free HTML Hosting Platform | Upload & Host HTML Files Instantly"
+[3]: https://static.run/html-website-upload?utm_source=chatgpt.com "Free HTML Website Hosting – Host Your Site in Seconds | Static.run"
+[4]: https://gohosted.app/features/free-web-hosting?utm_source=chatgpt.com "Free Web Hosting for Static Websites | gohosted.app"
+[5]: https://pagelet.host/?utm_source=chatgpt.com "Simple Free HTML hosting - pagelet.host"
+[6]: https://static.app/free-website-hosting?utm_source=chatgpt.com "Free HTML Website Hosting"
+[7]: https://www.bopbee.com/free-static-website-hosting?utm_source=chatgpt.com "Free Static Website Hosting"
+[8]: https://freehosthtml.com/?utm_source=chatgpt.com "FreeHostHtml - Free Lifetime Code Hosting Platform"
+[9]: https://en.wikipedia.org/wiki/Neocities?utm_source=chatgpt.com "Neocities"
+[10]: https://www.reddit.com/r/webdev/comments/1dygd4p?utm_source=chatgpt.com "Are there any free places to host a static html website"
+[11]: https://www.reddit.com/r/webdev/comments/1l9mj4j?utm_source=chatgpt.com "Set and forget static hosting?"
+[12]: https://www.reddit.com//r/HostingReport/comments/1o8e3fj?utm_source=chatgpt.com "Which companies offer free static website hosting?"
