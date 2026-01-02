@@ -3,6 +3,36 @@ codes
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 beg
+
+
+📝 1. Personal Portfolio Website (needed)
+
+What: Create a homepage that showcases your bio, skills, resume, and project links.
+
+Skills: HTML, CSS
+
+Bonus: Add animations with CSS or host it on GitHub Pages
+
+
+
+🗓️ 5. Basic Event Calendar (greene a for games and prob cafeteria food)
+
+What: A simple calendar that lets you add/view daily notes or tasks.
+
+Skills: Dates, forms, JavaScript logic
+
+
+
+📋 10. Quiz App
+
+What: Display multiple-choice questions and track the score.
+
+Skills: JavaScript logic, arrays, conditionals
+
+Bonus: Store high scores in localStorage
+
+
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
