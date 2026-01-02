@@ -7,7 +7,7 @@ beg
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-med
+Med
 
 6. Quiz App with Categories & Scoring (Maybe remake cat trivia here?prob will need sports, tech and other nerd ones later?)
 
@@ -16,6 +16,50 @@ What: Load quiz questions from an API like Open Trivia DB.
 Skills: State management, conditionals, timers
 
 Bonus: Add score tracking and save high scores locally
+
+
+
+🔄 Full-Stack Projects (Frontend + Backend + DB) (Could be the hardware/tech site?)
+7. To-Do App with User Authentication
+
+What: Users can register/login and manage personal to-do lists.
+
+Frontend: React, Vue, or vanilla JS
+
+Backend: Node.js/Express or Flask
+
+DB: MongoDB or SQLite
+
+
+
+10. Expense Tracker with Charts (def need this for poly paul, separate by family member type, etc )
+
+What: Log income and expenses, show visual breakdown.
+
+Skills: Forms, date pickers, chart libraries (Chart.js or D3)
+
+Bonus: Filter data by time range
+
+
+11. Authentication & Authorization System (prob needed eventually)
+
+What: Build a full login/register/logout flow with access control.
+
+Skills: JWT tokens, session storage, route protection
+
+Bonus: Add email verification or OAuth (Google login)
+
+
+12. Real-Time Chat App (Maybe for sales via chatbots)
+
+What: Users can create rooms and send messages live.
+
+Frontend: Vanilla JS or React
+
+Backend: WebSockets with Node.js or Socket.io
+
+Bonus: Add typing indicators or private messaging
+
 
 
 ==============================================================
