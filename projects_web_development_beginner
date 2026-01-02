@@ -1,13 +1,17 @@
 Here’s a list of 15 beginner-friendly web development projects, sorted by complexity and type (static vs interactive).
 
 🌐 Beginner Web Development Project Ideas
-📝 1. Personal Portfolio Website
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$4
+📝 1. Personal Portfolio Website (needed)
 
 What: Create a homepage that showcases your bio, skills, resume, and project links.
 
 Skills: HTML, CSS
 
 Bonus: Add animations with CSS or host it on GitHub Pages
+
+
 
 🧮 2. Simple Calculator
 
@@ -17,11 +21,15 @@ Skills: HTML, CSS, JavaScript (DOM manipulation)
 
 Bonus: Add keyboard input support and dark mode
 
+
+
 ⏱️ 3. Countdown Timer or Stopwatch
 
 What: Let users start, pause, reset, and record time.
 
 Skills: JavaScript timers (setInterval), event handling
+
+
 
 📅 4. To-Do List App
 
@@ -31,11 +39,15 @@ Skills: DOM manipulation, localStorage for saving data
 
 Bonus: Filter by completed/uncompleted tasks
 
+
+
 🗓️ 5. Basic Event Calendar (greene a for games and prob cafeteria food)
 
 What: A simple calendar that lets you add/view daily notes or tasks.
 
 Skills: Dates, forms, JavaScript logic
+
+
 
 🌦️ 6. Weather App (Using an API)
 
@@ -45,6 +57,8 @@ Skills: Fetch API, JSON, input handling
 
 Bonus: Add error handling and unit conversion (°C/°F)
 
+
+
 📃 7. Blog Template (Static Pages)
 
 What: Build a clean, responsive blog layout with dummy articles.
@@ -52,6 +66,8 @@ What: Build a clean, responsive blog layout with dummy articles.
 Skills: HTML, CSS (Flexbox or Grid), mobile responsiveness
 
 Bonus: Add a search bar with JavaScript
+
+
 
 🎨 8. Color Scheme Generator
 
@@ -61,11 +77,15 @@ Skills: JavaScript randomization, CSS variables
 
 Bonus: Copy color hex to clipboard
 
+
+
 📸 9. Image Gallery with Lightbox
 
 What: Click a thumbnail to see the full image in a pop-up overlay.
 
 Skills: HTML/CSS Grid, modals, JavaScript event listeners
+
+
 
 📋 10. Quiz App
 
@@ -75,6 +95,8 @@ Skills: JavaScript logic, arrays, conditionals
 
 Bonus: Store high scores in localStorage
 
+
+
 🔐 11. Login Page UI (Frontend Only)
 
 What: Design a styled login/signup form.
@@ -83,11 +105,15 @@ Skills: CSS styling, form validation
 
 Bonus: Add input animations or password visibility toggle
 
+
+
 🎯 12. Typing Speed Test
 
 What: Show a sentence and measure how fast and accurately the user types it.
 
 Skills: JavaScript timers, string comparison
+
+
 
 📦 13. Product Landing Page
 
@@ -97,11 +123,15 @@ Skills: HTML, CSS, responsive design
 
 Bonus: Add animations or use Bootstrap
 
+
+
 📑 14. Markdown Previewer
 
 What: Convert markdown text into HTML in real-time.
 
 Skills: JavaScript, marked.js or similar libraries
+
+
 
 🎮 15. Mini JavaScript Games
 
