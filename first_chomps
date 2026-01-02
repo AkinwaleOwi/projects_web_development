@@ -94,4 +94,19 @@ Bonus: Add typing indicators or private messaging
 
 ==============================================================
 
-expert
+Expert:
+
+
+6. 🕵️ Bug Bounty Management Platform (like HackerOne) = (prob needed?)
+
+What: Let users submit vulnerabilities to clients, with a full admin workflow.
+
+Features:
+
+Role-based dashboards (researcher, admin)
+
+Severity scoring (CVSS)
+
+Report triage and bounty payout tracking
+
+Bonus: Use 2FA and email verification
