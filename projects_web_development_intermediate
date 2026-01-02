@@ -124,7 +124,7 @@ Bonus: Add email verification or OAuth (Google login)
 
 
 
-12. Real-Time Chat App
+12. Real-Time Chat App (Maybe for sales via chatbots)
 
 What: Users can create rooms and send messages live.
 
@@ -134,6 +134,8 @@ Backend: WebSockets with Node.js or Socket.io
 
 Bonus: Add typing indicators or private messaging
 
+
+
 13. Job Board or Resume Builder
 
 What: Users create resumes or browse/post job listings.
@@ -141,6 +143,8 @@ What: Users create resumes or browse/post job listings.
 Skills: CRUD, file uploads, search filters
 
 Bonus: Export resume to PDF using a JS library
+
+
 
 14. Habit Tracker
 
@@ -150,6 +154,8 @@ Skills: Date manipulation, progress charts, notifications
 
 Bonus: Add reminders via browser notifications
 
+
+
 15. Simple Forum / Comment System
 
 What: Users post threads and comments in categories.
@@ -157,6 +163,9 @@ What: Users post threads and comments in categories.
 Skills: Nested data, authentication, input sanitization
 
 Bonus: Add upvotes/downvotes and markdown support
+
+==================================================================================
+===================================================================
 
 🛠️ Tools You Can Explore at This Level
 Category	Tools/Libraries
