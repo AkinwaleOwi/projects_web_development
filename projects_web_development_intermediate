@@ -4,6 +4,8 @@ Here’s a list of Intermediate Web Development Project Ideas, organized by fron
 
 🧩 INTERMEDIATE WEB DEVELOPMENT PROJECT IDEAS
 🎨 Frontend-Focused Projects (HTML/CSS/JavaScript + APIs)
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 1. Movie Search App (with OMDb or TMDB API)
 
 What: Search for movie titles, show posters, ratings, and plot.
@@ -11,6 +13,8 @@ What: Search for movie titles, show posters, ratings, and plot.
 Skills: API requests, dynamic DOM rendering, error handling
 
 Bonus: Add favorites using localStorage
+
+
 
 2. Weather Dashboard (API + City Search + History)
 
@@ -20,6 +24,8 @@ Skills: Fetch API, responsive cards, search history
 
 Bonus: Add dark mode toggle and geolocation-based search
 
+
+
 3. Responsive Blog Template with Light/Dark Mode
 
 What: Create a clean blog layout with toggle theme support.
@@ -28,7 +34,9 @@ Skills: CSS Grid/Flexbox, JavaScript state, UI animations
 
 Bonus: Add Markdown-to-HTML rendering
 
-4. Currency Converter App
+
+
+4. Currency Converter App (might be wise for the casino)
 
 What: Convert between currencies using exchange rate API.
 
@@ -36,7 +44,9 @@ Skills: Fetch API, form input validation, dynamic data update
 
 Bonus: Show historical exchange rates in a graph (using Chart.js)
 
-5. E-Commerce Product Gallery (Frontend Only)
+
+
+5. E-Commerce Product Gallery (Frontend Only)[ 
 
 What: Display products with filters, categories, cart (no backend).
 
