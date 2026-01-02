@@ -1,0 +1,23 @@
+
+codes
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+beg
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+med
+
+6. Quiz App with Categories & Scoring (Maybe remake cat trivia here?prob will need sports, tech and other nerd ones later?)
+
+What: Load quiz questions from an API like Open Trivia DB.
+
+Skills: State management, conditionals, timers
+
+Bonus: Add score tracking and save high scores locally
+
+
+==============================================================
+
+expert
