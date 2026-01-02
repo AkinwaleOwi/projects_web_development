@@ -74,7 +74,7 @@ Skills: JWT tokens, session storage, route protection
 Bonus: Add email verification or OAuth (Google login)
 
 
-12. Real-Time Chat App (Maybe for sales via chatbots)
+[rb] 12. Real-Time Chat App (Maybe for sales via chatbots)
 
 What: Users can create rooms and send messages live.
 
