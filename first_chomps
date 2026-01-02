@@ -1,11 +1,13 @@
 
-codes
+codes:
+[rb] repository built
+
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 beg
 
 
-📝 1. Personal Portfolio Website (needed)
+📝 1. Personal Portfolio Website (needed) [rb]
 
 What: Create a homepage that showcases your bio, skills, resume, and project links.
 
@@ -15,7 +17,7 @@ Bonus: Add animations with CSS or host it on GitHub Pages
 
 
 
-🗓️ 5. Basic Event Calendar (greene a for games and prob cafeteria food)
+🗓️ 5. Basic Event Calendar (greene a for games and prob cafeteria food) [rb]
 
 What: A simple calendar that lets you add/view daily notes or tasks.
 
@@ -23,21 +25,13 @@ Skills: Dates, forms, JavaScript logic
 
 
 
-📋 10. Quiz App
-
-What: Display multiple-choice questions and track the score.
-
-Skills: JavaScript logic, arrays, conditionals
-
-Bonus: Store high scores in localStorage
-
-
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-Med
+Med:
+
 
 6. Quiz App with Categories & Scoring (Maybe remake cat trivia here?prob will need sports, tech and other nerd ones later?)
 
