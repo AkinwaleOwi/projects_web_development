@@ -1,0 +1,80 @@
+codes
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+Here are some **real portfolio websites and examples from Python programmers and developers** — great for inspiration if you’re building your own Python-focused portfolio:
+
+### 🌐 Real Python/Full-Stack Developer Portfolios
+
+**1. Yassine’s Python/Django Portfolio**
+A professional Django-based portfolio showing projects, skills, and services. ([webportfolios.dev][1])
+🔗 [https://yassinecodes.dev/](https://yassinecodes.dev/)
+
+**2. Shubhanshu’s Full-Stack Portfolio (Python, Django)**
+Features multiple projects including Django apps deployed online — shows how to layout real work. ([Shub][2])
+🔗 [https://shub.pythonanywhere.com/projects/](https://shub.pythonanywhere.com/projects/)
+
+**3. Enci’s Full-Stack Developer Portfolio**
+Uses **Flask + Python + JavaScript/SCSS**, with projects for responsive sites and interactive work. ([Enci Portfolio Full Stack][3])
+🔗 [https://enciportfoliofullstack.pythonanywhere.com/](https://enciportfoliofullstack.pythonanywhere.com/)
+
+**4. Mehul Talpada’s Django Portfolio (PythonAnywhere)**
+A simple but professional personal portfolio highlighting web dev and Django projects. ([Mehul Talpada Portfolio][4])
+🔗 [https://mehulportfolio.pythonanywhere.com/](https://mehulportfolio.pythonanywhere.com/)
+
+**5. Ahmar321’s Python/Django Developer Site**
+A portfolio showing Python, Django, and example projects like a Netflix clone and game. ([Ahmar321][5])
+🔗 [https://ahmar321.pythonanywhere.com/](https://ahmar321.pythonanywhere.com/)
+
+**6. Daniel’s Full-Stack Portfolio (Python + JavaScript)**
+A clean portfolio showcasing full-stack projects and personal details. ([Danny Py5][6])
+🔗 [https://danny-py5.github.io/My-portfolio/](https://danny-py5.github.io/My-portfolio/)
+
+**7. Jacob Welling’s Python/Django Portfolio (built with Django)**
+Shared on DEV — a Django portfolio with projects and resume sections. ([DEV Community][7])
+🔗 [https://www.jacobwelling.me](https://www.jacobwelling.me)
+
+---
+
+### 🎨 Design & Concept Examples (Inspiration)
+
+**8. Python Developer Portfolio Design (Dribbble)**
+A *visual concept* for a Python developer portfolio — useful if you want UI/UX style ideas for Python dev sites. ([Dribbble][8])
+🔗 [https://dribbble.com/shots/18556520-Python-Developer-Portfolio-Website](https://dribbble.com/shots/18556520-Python-Developer-Portfolio-Website)
+
+**9. AI-Generated Python-Focused Portfolio Mockups**
+Stylish AI examples of how a Python programmer’s portfolio could look (good for layout ideas). ([Mobirise AI][9])
+🔗 (design inspiration pages — search *“Python Developer Portfolio”* in AI website builders)
+
+---
+
+## 🧠 What Makes These Good Examples
+
+✔ **Tech Stack shown clearly** — frameworks like **Django or Flask**, plus databases and Python libs. ([webportfolios.dev][1])
+✔ **Projects with demos or links** — live demos or screenshots help recruiters see your code in action. ([Shub][2])
+✔ **About & Skills sections** — succinct info on you as a developer. ([Enci Portfolio Full Stack][3])
+✔ **Clean UI & Easy navigation** — clear sections for projects, resume, contact, and GitHub/LinkedIn links. ([Mehul Talpada Portfolio][4])
+
+---
+
+## ✨ Tips for Your Portfolio
+
+**Include these sections:**
+
+* 🧑‍💻 *About You* — short summary of who you are as a Python dev.
+* 📦 *Projects* — with descriptions, tech used (Django/Flask/Pandas), and live links.
+* 💻 *Code Links* — link to GitHub/Bitbucket for source code.
+* 📄 *Resume/Skills* — language proficiency (Python, SQL), tools (Docker, CI/CD).
+* 📬 *Contact Info* — email and LinkedIn.
+
+---
+
+If you want, I can **give you a ready-to-use HTML/CSS template** tailored for a Python developer portfolio you can customize and host!
+
+[1]: https://www.webportfolios.dev/portfolios/qVi8n30d5FWcEKF9dy8rwI6d7zf2?utm_source=chatgpt.com "Yassine I Portfolio"
+[2]: https://shub.pythonanywhere.com/projects/?utm_source=chatgpt.com "Shubhanshu 's Portfolio"
+[3]: https://enciportfoliofullstack.pythonanywhere.com/?utm_source=chatgpt.com "Enci's full stack developer portfolio"
+[4]: https://mehulportfolio.pythonanywhere.com/?utm_source=chatgpt.com "Mehul Talpada - Web Developer Portfolio"
+[5]: https://ahmar321.pythonanywhere.com/?utm_source=chatgpt.com "Ahmar321 – Python Django Developer Portfolio"
+[6]: https://danny-py5.github.io/My-portfolio/?utm_source=chatgpt.com "Daniel's Portfolio"
+[7]: https://dev.to/jaw1/my-new-portfolio-site-50bd?utm_source=chatgpt.com "My New Portfolio Site - DEV Community"
+[8]: https://dribbble.com/shots/18556520-Python-Developer-Portfolio-Website?utm_source=chatgpt.com "Python Developer Portfolio Website by Muhammad Munaf on Dribbble"
+[9]: https://ai.mobirise.com/sites/python-developer-portfolio-stylish-images-inspiration-pDeULL-AFXj1AUhW9Z9lY.html?utm_source=chatgpt.com "Stylish Python Developer Portfolio: Showcase Your Skills with Inspiring Designs darmowy kreator stron AI portfolio"
