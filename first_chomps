@@ -33,7 +33,7 @@ Skills: Dates, forms, JavaScript logic
 Med:
 
 
-[rb] 6. Quiz App with Categories & Scoring (Maybe remake cat trivia here?prob will need sports, tech and other nerd ones later?)
+<>[rb] 6. Quiz App with Categories & Scoring (Maybe remake cat trivia here?prob will need sports, tech and other nerd ones later?)
 
 What: Load quiz questions from an API like Open Trivia DB.
 
@@ -43,7 +43,7 @@ Bonus: Add score tracking and save high scores locally
 
 
 
-[rb] 🔄 Full-Stack Projects (Frontend + Backend + DB) (Could be the hardware/tech site?)
+<>[rb] 🔄 Full-Stack Projects (Frontend + Backend + DB) (Could be the hardware/tech site?)
 7. To-Do App with User Authentication
 
 What: Users can register/login and manage personal to-do lists.
