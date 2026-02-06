@@ -1,0 +1,289 @@
+codes
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+Web dev projects have a pretty predictable meeting “arc.” Here’s the usual flow from day zero to launch (and after), with what each meeting is actually for in real life—not just the calendar label.
+
+1. Discovery / Intro Call
+
+When: Before anything is scoped or quoted
+Who: Client, PM, sometimes tech lead
+Purpose:
+
+Understand the problem (not the solution yet)
+
+Business goals, users, constraints
+
+Budget range, timeline expectations
+
+Red flags on both sides 😅
+
+Typical outputs:
+
+High-level requirements
+
+Go / no-go decision
+
+Next steps (proposal or workshop)
+
+2. Requirements / Discovery Workshop
+
+When: Early, after intro call
+Who: Client stakeholders, PM, UX, tech lead
+Purpose:
+
+Dig into features, workflows, edge cases
+
+Define user personas & journeys
+
+Clarify integrations, data, permissions
+
+Typical outputs:
+
+Functional requirements
+
+Feature list or backlog
+
+Early assumptions and risks
+
+3. Technical Scoping / Architecture Meeting
+
+When: After requirements start to solidify
+Who: Developers, tech lead, sometimes PM
+Purpose:
+
+Choose stack, frameworks, hosting
+
+Discuss performance, security, scalability
+
+Identify technical risks & tradeoffs
+
+Typical outputs:
+
+Architecture diagram
+
+Tech stack decisions
+
+Complexity estimates
+
+4. Estimation & Planning Meeting
+
+When: Before contracts or sprint planning
+Who: Dev team, PM
+Purpose:
+
+Break features into tasks
+
+Estimate time/effort
+
+Decide delivery approach (phases, MVP)
+
+Typical outputs:
+
+Timeline
+
+Cost estimate
+
+Milestones
+
+5. Kickoff Meeting
+
+When: Official project start
+Who: Everyone
+Purpose:
+
+Align on goals, scope, timeline
+
+Clarify roles & communication rules
+
+Set expectations (what won’t be done too)
+
+Typical outputs:
+
+Shared understanding
+
+Project calendar
+
+Communication channels (Slack, Jira, etc.)
+
+6. Design Review Meetings
+
+When: Early–mid project
+Who: Client, designers, dev lead
+Purpose:
+
+Review wireframes / UI designs
+
+Catch usability issues before code
+
+Ensure designs are feasible to build
+
+Typical outputs:
+
+Approved designs
+
+Change requests
+
+Design handoff to devs
+
+7. Sprint Planning
+
+When: Every sprint (Agile projects)
+Who: Dev team, PM
+Purpose:
+
+Decide what gets built next
+
+Assign tasks
+
+Clarify acceptance criteria
+
+Typical outputs:
+
+Sprint backlog
+
+Clear dev priorities
+
+8. Daily Standups
+
+When: Daily or near-daily
+Who: Dev team
+Purpose:
+
+What I did yesterday
+
+What I’m doing today
+
+What’s blocking me
+
+Typical outputs:
+
+Fast issue detection
+
+Minimal paperwork (ideally)
+
+9. Stakeholder Check-Ins / Status Updates
+
+When: Weekly or bi-weekly
+Who: Client, PM, lead dev
+Purpose:
+
+Show progress
+
+Confirm priorities haven’t changed
+
+Manage expectations
+
+Typical outputs:
+
+Feedback
+
+Scope adjustments
+
+Approval to continue
+
+10. Technical Review / Code Review Meetings
+
+When: Mid-project or as needed
+Who: Devs
+Purpose:
+
+Review architecture decisions
+
+Address tech debt
+
+Align on coding standards
+
+Typical outputs:
+
+Refactoring decisions
+
+Agreed best practices
+
+11. QA / Testing Review
+
+When: Feature-complete or near end
+Who: QA, devs, PM
+Purpose:
+
+Review bugs and edge cases
+
+Decide what’s a must-fix vs nice-to-have
+
+Validate against requirements
+
+Typical outputs:
+
+Bug list
+
+Release criteria
+
+12. UAT (User Acceptance Testing) Review
+
+When: Right before launch
+Who: Client, PM, dev lead
+Purpose:
+
+Client validates the product
+
+Catch last-minute issues
+
+Final approval to launch
+
+Typical outputs:
+
+Sign-off
+
+Final fixes
+
+13. Launch / Go-Live Meeting
+
+When: Deployment day
+Who: Devs, PM, sometimes client
+Purpose:
+
+Coordinate deployment steps
+
+Rollback plan
+
+Monitor for issues
+
+Typical outputs:
+
+Live product 🎉
+
+Post-launch checklist
+
+14. Post-Launch Retrospective
+
+When: After launch
+Who: Team (sometimes client)
+Purpose:
+
+What went well
+
+What didn’t
+
+What to improve next time
+
+Typical outputs:
+
+Process improvements
+
+Lessons learned
+
+15. Maintenance / Roadmap Planning
+
+When: After launch, ongoing
+Who: Client, PM, dev lead
+Purpose:
+
+Plan enhancements
+
+Handle bugs & support
+
+Decide next phase
+
+Typical outputs:
+
+Product roadmap
+
+Support plan
