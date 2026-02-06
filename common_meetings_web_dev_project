@@ -1,6 +1,8 @@
 codes
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-Web dev projects have a pretty predictable meeting “arc.” Here’s the usual flow from day zero to launch (and after), with what each meeting is actually for in real life—not just the calendar label.
+Notes: Web dev projects have a pretty predictable meeting “arc.” Here’s the usual flow from day zero to launch (and after), with what each meeting is actually for in real life—not just the calendar label.
+
+_____________Beginning of Pre-Code Meetings_____________________
 
 1. Discovery / Intro Call
 
@@ -24,6 +26,7 @@ Go / no-go decision
 
 Next steps (proposal or workshop)
 
+_________________________________________________________
 2. Requirements / Discovery Workshop
 
 When: Early, after intro call
@@ -43,6 +46,8 @@ Functional requirements
 Feature list or backlog
 
 Early assumptions and risks
+
+_______________________________________________________________
 
 3. Technical Scoping / Architecture Meeting
 
@@ -64,6 +69,8 @@ Tech stack decisions
 
 Complexity estimates
 
+
+_______________________________________________________________
 4. Estimation & Planning Meeting
 
 When: Before contracts or sprint planning
@@ -83,6 +90,8 @@ Timeline
 Cost estimate
 
 Milestones
+
+_______________________________________________________________
 
 5. Kickoff Meeting
 
@@ -104,6 +113,8 @@ Project calendar
 
 Communication channels (Slack, Jira, etc.)
 
+
+
 6. Design Review Meetings
 
 When: Early–mid project
@@ -123,6 +134,7 @@ Approved designs
 Change requests
 
 Design handoff to devs
+____________________________________________________
 
 7. Sprint Planning
 
@@ -142,6 +154,8 @@ Sprint backlog
 
 Clear dev priorities
 
+_______________________________________________________________
+
 8. Daily Standups
 
 When: Daily or near-daily
@@ -159,6 +173,8 @@ Typical outputs:
 Fast issue detection
 
 Minimal paperwork (ideally)
+
+
 
 9. Stakeholder Check-Ins / Status Updates
 
