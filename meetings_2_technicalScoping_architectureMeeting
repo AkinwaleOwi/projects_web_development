@@ -1,0 +1,19 @@
+2. Technical Scoping / Architecture Meeting
+
+When: After requirements start to solidify
+Who: Developers, tech lead, sometimes PM
+Purpose:
+
+Choose stack, frameworks, hosting
+
+Discuss performance, security, scalability
+
+Identify technical risks & tradeoffs
+
+Typical outputs:
+
+Architecture diagram
+
+Tech stack decisions
+
+Complexity estimates
