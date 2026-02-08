@@ -7,19 +7,29 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 Background:
 
-When: After requirements start to solidify
-Who: Developers, tech lead, sometimes PM
+B0. When: After requirements start to solidify
+B1. Who: Developers, tech lead, sometimes PM
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 Purpose:
 
-Choose stack, frameworks, hosting
+P0.Choose stack, frameworks, hosting
+P0A. stack
+P0B. frameworks
+P0C. hosting
 
-Discuss performance, security, scalability
 
-Identify technical risks & tradeoffs
+P1. Discuss performance, security, scalability
+P1A. performance
+P1B. security
+P1C. scalability
 
+P2. Identify technical risks & tradeoffs
+P2A. Identify technical risks 
+P2B. tradeoffs
+
+===============================================================
 Typical outputs:
 
 Architecture diagram
