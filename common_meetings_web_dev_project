@@ -4,7 +4,7 @@ Notes: Web dev projects have a pretty predictable meeting “arc.” Here’s th
 
 _____________Beginning of Pre-Code Meetings_____________________
 
-1. Discovery / Intro Call
+0. Discovery / Intro Call
 
 When: Before anything is scoped or quoted
 Who: Client, PM, sometimes tech lead
@@ -27,7 +27,7 @@ Go / no-go decision
 Next steps (proposal or workshop)
 
 _________________________________________________________
-2. Requirements / Discovery Workshop
+1. Requirements / Discovery Workshop
 
 When: Early, after intro call
 Who: Client stakeholders, PM, UX, tech lead
@@ -49,7 +49,7 @@ Early assumptions and risks
 
 _______________________________________________________________
 
-3. Technical Scoping / Architecture Meeting
+2. Technical Scoping / Architecture Meeting
 
 When: After requirements start to solidify
 Who: Developers, tech lead, sometimes PM
@@ -71,7 +71,7 @@ Complexity estimates
 
 
 _______________________________________________________________
-4. Estimation & Planning Meeting
+3. Estimation & Planning Meeting
 
 When: Before contracts or sprint planning
 Who: Dev team, PM
@@ -93,7 +93,7 @@ Milestones
 
 _______________________________________________________________
 
-5. Kickoff Meeting
+4. Kickoff Meeting
 
 When: Official project start
 Who: Everyone
@@ -113,7 +113,9 @@ Project calendar
 
 Communication channels (Slack, Jira, etc.)
 
-_________________________________________________________________________
+______________________End of pre code meetings______________________________
+
+$$$$$$$$$$ Beginning of Coding has started meetings $$$$$$$$$$$$$$$$$$$$$$$$$$
 
 6. Design Review Meetings
 
@@ -134,7 +136,7 @@ Approved designs
 Change requests
 
 Design handoff to devs
-____________________________________________________
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 7. Sprint Planning
 
@@ -154,9 +156,9 @@ Sprint backlog
 
 Clear dev priorities
 
-______________________End of pre code meetings______________________________
 
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 8. Daily Standups
 
 When: Daily or near-daily
@@ -176,7 +178,7 @@ Fast issue detection
 Minimal paperwork (ideally)
 
 
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 9. Stakeholder Check-Ins / Status Updates
 
 When: Weekly or bi-weekly
@@ -197,6 +199,8 @@ Scope adjustments
 
 Approval to continue
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 10. Technical Review / Code Review Meetings
 
 When: Mid-project or as needed
@@ -215,6 +219,7 @@ Refactoring decisions
 
 Agreed best practices
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 11. QA / Testing Review
 
 When: Feature-complete or near end
@@ -232,6 +237,8 @@ Typical outputs:
 Bug list
 
 Release criteria
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 12. UAT (User Acceptance Testing) Review
 
@@ -250,6 +257,11 @@ Typical outputs:
 Sign-off
 
 Final fixes
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+$$$$$$$$$$ End of Coding has started meetings $$$$$$$$$$$$$$$$$$$$$$$$$$
+
+%%%%%%%%%%%%%%%%%% Beginning of live meetings %%%%%%%%%%%%%%%%%%
 
 13. Launch / Go-Live Meeting
 
@@ -268,6 +280,7 @@ Typical outputs:
 Live product 🎉
 
 Post-launch checklist
+
 
 14. Post-Launch Retrospective
 
@@ -304,3 +317,5 @@ Typical outputs:
 Product roadmap
 
 Support plan
+
+%%%%%%%%%%%%%%%%%% End of live website meetings %%%%%%%%%%%%%%%%%%
