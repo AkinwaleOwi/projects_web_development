@@ -1,0 +1,38 @@
+codes
+~ = majors with underlings
+~~ = minors under a major but still has underlings
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+Meetings #4(Zero based) =  Kickoff Meeting
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+When: Official project start
+Who: Everyone
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+~Purpose:
+
+P0. Align on goals, scope, timeline
+P0A. goals
+P0B. scope
+P0C. timeline
+
+
+~~Clarify roles & communication rules
+C0. Roles
+C1. Communication rules
+
+~~Set expectations (what won’t be done too)
+S0. Expectations
+S1. What won’t be done
+_________________________________________________________________
+
+~Typical outputs:
+
+T0. Shared understanding
+
+T1.Project calendar
+
+T2. Communication channels (Slack, Jira, etc.)
