@@ -117,7 +117,7 @@ ______________________End of pre code meetings______________________________
 
 $$$$$$$$$$ Beginning of Coding has started meetings $$$$$$$$$$$$$$$$$$$$$$$$$$
 
-6. Design Review Meetings
+5. Design Review Meetings
 
 When: Early–mid project
 Who: Client, designers, dev lead
@@ -138,7 +138,7 @@ Change requests
 Design handoff to devs
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-7. Sprint Planning
+6. Sprint Planning
 
 When: Every sprint (Agile projects)
 Who: Dev team, PM
@@ -159,7 +159,7 @@ Clear dev priorities
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-8. Daily Standups
+7. Daily Standups
 
 When: Daily or near-daily
 Who: Dev team
@@ -179,7 +179,7 @@ Minimal paperwork (ideally)
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-9. Stakeholder Check-Ins / Status Updates
+8. Stakeholder Check-Ins / Status Updates
 
 When: Weekly or bi-weekly
 Who: Client, PM, lead dev
@@ -201,7 +201,7 @@ Approval to continue
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-10. Technical Review / Code Review Meetings
+9. Technical Review / Code Review Meetings
 
 When: Mid-project or as needed
 Who: Devs
@@ -220,7 +220,7 @@ Refactoring decisions
 Agreed best practices
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-11. QA / Testing Review
+10. QA / Testing Review
 
 When: Feature-complete or near end
 Who: QA, devs, PM
@@ -240,7 +240,7 @@ Release criteria
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-12. UAT (User Acceptance Testing) Review
+11. UAT (User Acceptance Testing) Review
 
 When: Right before launch
 Who: Client, PM, dev lead
@@ -263,7 +263,7 @@ $$$$$$$$$$ End of Coding has started meetings $$$$$$$$$$$$$$$$$$$$$$$$$$
 
 %%%%%%%%%%%%%%%%%% Beginning of live meetings %%%%%%%%%%%%%%%%%%
 
-13. Launch / Go-Live Meeting
+12. Launch / Go-Live Meeting
 
 When: Deployment day
 Who: Devs, PM, sometimes client
@@ -281,8 +281,10 @@ Live product 🎉
 
 Post-launch checklist
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-14. Post-Launch Retrospective
+
+13. Post-Launch Retrospective
 
 When: After launch
 Who: Team (sometimes client)
@@ -300,7 +302,10 @@ Process improvements
 
 Lessons learned
 
-15. Maintenance / Roadmap Planning
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+14. Maintenance / Roadmap Planning
 
 When: After launch, ongoing
 Who: Client, PM, dev lead
