@@ -1,0 +1,29 @@
+codes
+~ = Majors with underlings
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+Meeting #3(Zero Based) =  Estimation & Planning Meeting
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+When: Before contracts or sprint planning
+Who: Dev team, PM
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+~Purpose:
+
+P0. Break features into tasks
+
+  P0A. Estimate time/effort
+
+    P0A0. Decide delivery approach (phases, MVP)
+
+__________________________________________________________________________
+~Typical outputs:
+
+T0. Timeline
+
+T1. Cost estimate
+
+T2. Milestones
